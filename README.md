@@ -1,4 +1,11 @@
-# 1. Project Overview
+# 1. Live Dashboard
+
+The interactive version of this report is available online:
+
+🔗 [Open Power BI Dashboard](eyJrIjoiZmYzMGFkODAtMDM4Ni00MWU0LWE5YzgtNzQwYzE1MTQ0OGFkIiwidCI6ImM4NDJjMmQ4LTUxY2UtNGJiNy1hZmUzLTE4OTRiNjk5MzY5MCIsImMiOjl9)
+
+The dashboard allows full interaction with filters, KPIs, and time analysis.
+# 2. Project Overview
 
 This project focuses on analyzing sales performance and customer behavior using an interactive Power BI dashboard.
 
@@ -6,7 +13,7 @@ The main objective is to evaluate business performance over a 1-year period, ide
 
 The analysis is based on transactional sales data and applies data visualization and business intelligence techniques to support data-driven decision-making.
 
-# 2. Research Objectives
+# 3. Research Objectives
 
 The study aims to answer the following analytical questions:
 
@@ -18,7 +25,7 @@ Are there signs of market concentration or dependency?
 How does performance evolve over time (YTD analysis)?
 
 
-# 3. Repository Structure
+# 4. Repository Structure
 PowerBI-Sales-Analysis/
 │
 ├── README.md
@@ -32,11 +39,5 @@ PowerBI-Sales-Analysis/
 │
 └── (no pbix file) 
 
-# 4. Live Dashboard
 
-The interactive version of this report is available online:
-
-🔗 [Open Power BI Dashboard](eyJrIjoiZmYzMGFkODAtMDM4Ni00MWU0LWE5YzgtNzQwYzE1MTQ0OGFkIiwidCI6ImM4NDJjMmQ4LTUxY2UtNGJiNy1hZmUzLTE4OTRiNjk5MzY5MCIsImMiOjl9)
-
-The dashboard allows full interaction with filters, KPIs, and time analysis.
 
