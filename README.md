@@ -1,24 +1,27 @@
-# Sales_report
-This report is based on training data provided as part of a course.
-The main objective is to conduct a comprehensive sales analysis using BI tools.
+# 1. Project Overview
 
-The analysis covers a one-year period, which limits the assessment of long-term trends and seasonality.
+This project focuses on analyzing sales performance and customer behavior using an interactive Power BI dashboard.
 
-The report includes:
+The main objective is to evaluate business performance over a 1-year period, identify key revenue drivers, and understand customer value distribution across countries and product categories.
 
-revenue and key KPI analysis,
-cohort analysis of customer behavior,
-product analysis (ABC/XYZ),
-sales dynamics analysis (YTD).
+The analysis is based on transactional sales data and applies data visualization and business intelligence techniques to support data-driven decision-making.
 
-The report is aimed at identifying key revenue drivers, assessing customer retention, and defining growth opportunities.
+# 2. Research Objectives
 
-Sales_report-Project/
+The study aims to answer the following analytical questions:
+
+What are the main trends in revenue over time?
+Which geographic regions contribute most to total sales?
+How is revenue distributed across product categories?
+What is the structure of customer value (LTV)?
+Are there signs of market concentration or dependency?
+How does performance evolve over time (YTD analysis)?
+
+
+# 3. Repository Structure
+PowerBI-Sales-Analysis/
 │
 ├── README.md
-├── /report
-│   └── sales_report.pbix
-│
 ├── /Screenshots
 │   ├── Screenshot 1.png
 │   ├── Screenshot 2.png
@@ -26,4 +29,14 @@ Sales_report-Project/
 │   ├── Screenshot 4.png
 │   ├── Screenshot 5.png
 │   ├── Screenshot 6.png
+│
+└── (no pbix file) 
+
+# 4. Live Dashboard
+
+The interactive version of this report is available online:
+
+🔗 [Open Power BI Dashboard](eyJrIjoiZmYzMGFkODAtMDM4Ni00MWU0LWE5YzgtNzQwYzE1MTQ0OGFkIiwidCI6ImM4NDJjMmQ4LTUxY2UtNGJiNy1hZmUzLTE4OTRiNjk5MzY5MCIsImMiOjl9)
+
+The dashboard allows full interaction with filters, KPIs, and time analysis.
 
