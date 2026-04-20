@@ -2,7 +2,7 @@
 
 The interactive version of this report is available online:
 
-🔗 [Open Power BI Dashboard](eyJrIjoiZmYzMGFkODAtMDM4Ni00MWU0LWE5YzgtNzQwYzE1MTQ0OGFkIiwidCI6ImM4NDJjMmQ4LTUxY2UtNGJiNy1hZmUzLTE4OTRiNjk5MzY5MCIsImMiOjl9)
+🔗 [Open Power BI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiZmYzMGFkODAtMDM4Ni00MWU0LWE5YzgtNzQwYzE1MTQ0OGFkIiwidCI6ImM4NDJjMmQ4LTUxY2UtNGJiNy1hZmUzLTE4OTRiNjk5MzY5MCIsImMiOjl9)
 
 The dashboard allows full interaction with filters, KPIs, and time analysis.
 # 2. Project Overview
